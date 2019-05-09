@@ -1,0 +1,7 @@
+Django==2.2
+django-taggit==1.1.0
+pi==0.1.2
+Pillow==6.0.0
+psycopg2-binary==2.8.2
+pytz==2018.9
+sqlparse==0.3.0
